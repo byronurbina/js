@@ -1,0 +1,25 @@
+{
+	"items" :[
+	{
+	"nombre" : "arroz",
+	"id" : "1"
+	},
+	{
+	"nombre" : "frijol",
+	"id" : "2"
+	},{
+	"nombre" : "celear",
+	"id" : "3"
+	},
+	{
+	"nombre" : "coco",
+	"id" : "4"
+	},
+	{
+	"nombre" : "mas cosas",
+	"id" : "100"
+	}
+
+]
+	
+}
